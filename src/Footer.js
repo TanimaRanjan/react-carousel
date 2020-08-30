@@ -6,7 +6,7 @@ const Footer = () => {
         <footer className="footer">
     <a
       className="footer__link"
-      href="https://github.com/davidcetinkaya/embla-carousel"
+      href="https://github.com/TanimaRanjan/react-carousel.github.io"
     >
       <svg
         className="footer__link__svg"
