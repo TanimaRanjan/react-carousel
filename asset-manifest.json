@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-carousel.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-carousel.github.io/static/js/main.f763fb65.chunk.js",
+    "main.js.map": "/react-carousel.github.io/static/js/main.f763fb65.chunk.js.map",
+    "runtime-main.js": "/react-carousel.github.io/static/js/runtime-main.0f6ffcdc.js",
+    "runtime-main.js.map": "/react-carousel.github.io/static/js/runtime-main.0f6ffcdc.js.map",
+    "static/js/2.b721051e.chunk.js": "/react-carousel.github.io/static/js/2.b721051e.chunk.js",
+    "static/js/2.b721051e.chunk.js.map": "/react-carousel.github.io/static/js/2.b721051e.chunk.js.map",
+    "index.html": "/react-carousel.github.io/index.html",
+    "precache-manifest.ac99b5f1c20a0339faa78f3947e50784.js": "/react-carousel.github.io/precache-manifest.ac99b5f1c20a0339faa78f3947e50784.js",
+    "service-worker.js": "/react-carousel.github.io/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-carousel.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.b721051e.chunk.js.LICENSE.txt": "/react-carousel.github.io/static/js/2.b721051e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-carousel.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f6ffcdc.js",
+    "static/js/2.b721051e.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.f763fb65.chunk.js"
+  ]
+}
