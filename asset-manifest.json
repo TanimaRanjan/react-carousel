@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/react-carousel.github.io/static/css/main.5f361e03.chunk.css",
-    "main.js": "/react-carousel.github.io/static/js/main.1265708b.chunk.js",
-    "main.js.map": "/react-carousel.github.io/static/js/main.1265708b.chunk.js.map",
-    "runtime-main.js": "/react-carousel.github.io/static/js/runtime-main.0f6ffcdc.js",
-    "runtime-main.js.map": "/react-carousel.github.io/static/js/runtime-main.0f6ffcdc.js.map",
-    "static/js/2.e65acddf.chunk.js": "/react-carousel.github.io/static/js/2.e65acddf.chunk.js",
-    "static/js/2.e65acddf.chunk.js.map": "/react-carousel.github.io/static/js/2.e65acddf.chunk.js.map",
-    "index.html": "/react-carousel.github.io/index.html",
-    "precache-manifest.220e7c803d9650c5b2be5169ec564e68.js": "/react-carousel.github.io/precache-manifest.220e7c803d9650c5b2be5169ec564e68.js",
-    "service-worker.js": "/react-carousel.github.io/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/react-carousel.github.io/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.e65acddf.chunk.js.LICENSE.txt": "/react-carousel.github.io/static/js/2.e65acddf.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/react-carousel.github.io/static/media/logo.5d5d9eef.svg"
+    "main.css": "/static/css/main.ad61e8f6.chunk.css",
+    "main.js": "/static/js/main.083e4b11.chunk.js",
+    "main.js.map": "/static/js/main.083e4b11.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ae7391b8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ae7391b8.js.map",
+    "static/js/2.e65acddf.chunk.js": "/static/js/2.e65acddf.chunk.js",
+    "static/js/2.e65acddf.chunk.js.map": "/static/js/2.e65acddf.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.35f2f981a1677a33c1bd155a3ac6a58c.js": "/precache-manifest.35f2f981a1677a33c1bd155a3ac6a58c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.ad61e8f6.chunk.css.map": "/static/css/main.ad61e8f6.chunk.css.map",
+    "static/js/2.e65acddf.chunk.js.LICENSE.txt": "/static/js/2.e65acddf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0f6ffcdc.js",
+    "static/js/runtime-main.ae7391b8.js",
     "static/js/2.e65acddf.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.1265708b.chunk.js"
+    "static/css/main.ad61e8f6.chunk.css",
+    "static/js/main.083e4b11.chunk.js"
   ]
 }
