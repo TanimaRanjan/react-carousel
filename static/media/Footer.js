@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
-const Footer = () => {
-
-    return (
-        <footer className="footer">
+const Footer = () => (
+  <footer className="footer">
     <a
       className="footer__link"
       href="https://github.com/davidcetinkaya/embla-carousel"
@@ -17,10 +15,8 @@ const Footer = () => {
       </svg>
       <span className="footer__link__text">Visit on GitHub</span>
     </a>
-    <p>Copyright 2020 Tanima Ranjan</p>
+    <p>Copyright 2020 By Tanima Ranjan</p>
   </footer>
-        
-    )
-}
+);
 
-export default Footer
+export default Footer;
